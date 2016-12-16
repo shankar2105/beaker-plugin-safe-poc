@@ -1,0 +1,31 @@
+{
+  "name": "beaker-plugin-safe-poc",
+  "version": "0.0.1",
+  "description": "Beaker plugin safe POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://shankar2105@github.com/shankar2105/beaker-plugin-safe-poc.git"
+  },
+  "keywords": [
+    "MaidSafe",
+    "Safe",
+    "Network",
+    "Beaker",
+    "plugin",
+    "SAFE",
+    "protocol"
+  ],
+  "author": "Shankar S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shankar2105/beaker-plugin-safe-poc/issues"
+  },
+  "homepage": "https://github.com/shankar2105/beaker-plugin-safe-poc#readme",
+  "dependencies": {
+    "url": "^0.11.0"
+  }
+}
